@@ -1,0 +1,27 @@
+{
+  "name": "hello-docker-koa",
+  "version": "0.1.0",
+  "description": "Trying out dockerized node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longyiszh/hello-docker-koa.git"
+  },
+  "keywords": [
+    "hello-world",
+    "docker",
+    "koa"
+  ],
+  "author": "valorad",
+  "license": null,
+  "bugs": {
+    "url": "https://github.com/longyiszh/hello-docker-koa/issues"
+  },
+  "homepage": "https://github.com/longyiszh/hello-docker-koa#readme",
+  "dependencies": {
+    "koa": "^2.4.1"
+  }
+}
